@@ -6,7 +6,14 @@
 
     <groupId>com.rootwang</groupId>
     <artifactId>book-exer-project</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>data-structure-algorithms</module>
+        <module>algorithms-tuling</module>
+        <module>java8-in-action</module>
+        <module>web-demo</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
