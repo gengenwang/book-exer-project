@@ -13,6 +13,7 @@
         <module>algorithms-tuling</module>
         <module>java8-in-action</module>
         <module>web-demo</module>
+        <module>java8-demo</module>
     </modules>
 
     <properties>
